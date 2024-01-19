@@ -15,4 +15,4 @@ Het spel is een uitbreiding van het bekende spel 'Battleships' of 'Zeeslag'. In 
 - **Gezondheidssysteem**: Elk schip heeft een gezondheidssysteem met bijbehorende punten, waarbij schade leidt tot vermindering van deze punten.
 
 ## Technologieën
-Het spel is geschreven in HTML, CSS, en JavaScript, waarbij vooral JavaScript is gebruikt voor de logica van het spel. De multiplayer-functionaliteit wordt mogelijk gemaakt door sockets, die zorgen voor communicatie tussen de verschillende spelers.
+Het spel is geschreven in HTML, CSS, en JavaScript.
